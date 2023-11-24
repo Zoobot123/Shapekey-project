@@ -1,0 +1,23 @@
+name_mapping = {
+    "困る": "mayuha",
+    "にこり": "mayuup",
+    "怒り": "mayuv",
+    "恥ずかしい": "mayuw",
+    "真面目": "mayuvhalf",
+    "お": "moutha",
+    "い": "mouthc",
+    "口横広げ": "mouthdw",
+    "ん": "mouthhe",
+    "い１": "mouthi",
+    "ワ": "mouths",
+    "にやり": "mouthup",
+    "にやり２": "mouthuphalf",
+    "あ２": "nosefook",
+    "びっくり": "eyebig",
+    "まばたき": "eyeclose",
+    "笑い": "eyeclose2",
+    "じと目": "eyeclose3",
+    "ウィンク": "eyeclose5",
+    "ウィンク右": "eyeclose6",
+    "う": "tangout"
+}
